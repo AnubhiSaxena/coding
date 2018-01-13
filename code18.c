@@ -3,7 +3,7 @@
 void main()
 {
 int n1,n2,t,s,i,d;
-printf("enter the two numbers");
+printf("enter two numbers");
 scanf("%d%d",&n1&n2);
 for(i=n1+1;i<n2;i++)
 {
